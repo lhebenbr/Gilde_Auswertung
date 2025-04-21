@@ -154,7 +154,7 @@ def main():
     df = pd.DataFrame(bedingungen)
     df.to_csv(AUSWERTUNG_DATEI, index=False, sep=";")
 
-    with open(FEHLER_DATEI, "w", encoding="utf-8") as f:
+    with open(FEHLER_DATEI, "w", encoding="utf-8-sig") as f:
         if fehler_liste:
             f.write("Folgende Schützen hatten keinen passenden Eintrag in den Bedingungen:\n\n")
             f.writelines(f"{e}\n" for e in fehler_liste)
