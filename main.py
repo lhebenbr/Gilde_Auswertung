@@ -54,6 +54,12 @@ def berechne_beste_serien(serien):
         beste.append({"totalscore": 0, "teiler": "-", "anwesenheiten": 0})
     return beste
 
+def berechne_gesamt_ringzahl(serien):
+    ringe_gesamt = 0
+    for s in serien:
+        ringe_gesamt += s["totalscore"]
+    return ringe_gesamt
+
 def pruefe_bedingungen(daten, bedingungen_row):
     # Jahr aus Geburtsdatum extrahieren
     geburtsdatum = datetime.strptime(daten["Geburtsdatum"], "%d/%m/%Y")
@@ -123,11 +129,13 @@ def verarbeite_schuetzen(root, bedingungen_df, senioren_df, fehler_liste):
 
         serien_daten = extrahiere_serien(shooter)
         beste = berechne_beste_serien(serien_daten)
+        ringe_gesamt = berechne_gesamt_ringzahl(serien_daten)
 
         daten.update({
             "Bester_Score": beste[0]["totalscore"],
             "Zweiter_Score": beste[1]["totalscore"],
             "Dritter_Score": beste[2]["totalscore"],
+            "Ringe_Gesamt": ringe_gesamt,
             "Anwesenheiten": sum(s["anwesenheiten"] for s in beste if isinstance(s["anwesenheiten"], int))
         })
 
@@ -154,7 +162,7 @@ def main():
     df = pd.DataFrame(bedingungen)
     df.to_csv(AUSWERTUNG_DATEI, index=False, sep=";")
 
-    with open(FEHLER_DATEI, "w", encoding="utf-8-sig") as f:
+    with open(FEHLER_DATEI, "w", encoding="utf-8") as f:
         if fehler_liste:
             f.write("Folgende Schützen hatten keinen passenden Eintrag in den Bedingungen:\n\n")
             f.writelines(f"{e}\n" for e in fehler_liste)
