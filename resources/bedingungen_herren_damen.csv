@@ -1,0 +1,121 @@
+ID,Auszeichnung,BNEins,BNZwei,BNDrei,SNEins,SNZwei,SNDrei
+1,Grüne Schnur,90,90,-,90,90,-
+2,Grüne Eichel,91,91,91,90,91,-
+3,Silberne Eichel,92,92,92,91,91,-
+4,Goldene Eichel,93,93,-,92,92,-
+5,Plakette Grüne Schnur,94,94,-,93,93,-
+6,Spange zu Metalleicheln,95,95,-,93,94,-
+7,1. Goldeichel,95,96,-,94,94,-
+8,2. Goldeichel,96,96,-,94,95,-
+9,3. Goldeichel,97,-,-,95,-,-
+10,4. Goldeichel,97,-,-,95,-,-
+11,5. Goldeichel,96,97,-,94,95,-
+12,Silberne Schnur,97,97,-,95,95,-
+13,Goldene Schnur,97,97,-,95,95,-
+14,Plakette Goldene Schnur,98,-,-,96,-,-
+15,Kette für kl. Goldeicheln,96,96,-,95,95,-
+16,1. kleine Goldeichel,96,96,-,95,95,-
+17,2. kleine Goldeichel,96,96,-,95,95,-
+18,3. kleine Goldeichel,96,96,-,95,95,-
+19,4. kleine Goldeichel,96,96,-,95,95,-
+20,5. kleine Goldeichel,96,96,-,95,95,-
+21,6. kleine Goldeichel,96,96,96,94,94,94
+22,7. kleine Goldeichel,95,95,-,94,94,94
+23,8. kleine Goldeichel,95,95,-,94,94,94
+24,9. kleine Goldeichel,95,95,-,94,94,94
+25,10. kleine Goldeichel,95,95,-,94,94,94
+26,Anhänger Bronze,95,95,95,95,95,95
+27,1. Wdh. Bronze,95,95,95,95,95,95
+28,2. Wdh. Bronze,95,95,95,95,95,95
+29,3. Wdh. Bronze,95,95,95,95,95,95
+30,4. Wdh. Bronze,95,95,95,95,95,95
+31,5. Wdh. Bronze,95,95,95,95,95,95
+32,Anhänger Silber,94,94,94,94,94,94
+33,1. Wdh. Silber,94,94,94,94,94,94
+34,2. Wdh. Silber,94,94,94,94,94,94
+35,3. Wdh. Silber,94,94,94,94,94,94
+36,4. Wdh. Silber,94,94,94,94,94,94
+37,5. Wdh. Silber,94,94,94,94,94,94
+38,Anhänger Gold,93,93,93,93,93,93
+39,1. Wdh. Gold,93,93,93,93,93,93
+40,2. Wdh. Gold,93,93,93,93,93,93
+41,3. Wdh. Gold,93,93,93,93,93,93
+42,4. Wdh. Gold,93,93,93,93,93,93
+43,5. Wdh. Gold,93,93,93,93,93,93
+44,Leistungsabzeichen 44,93,93,93,93,93,93
+45,Leistungsabzeichen 45,93,93,93,93,93,93
+46,Leistungsabzeichen 46,93,93,93,93,93,93
+47,Leistungsabzeichen 47,93,93,93,93,93,93
+48,Leistungsabzeichen 48,93,93,93,93,93,93
+49,Leistungsabzeichen 49,93,93,93,93,93,93
+50,Leistungsabzeichen 50,93,93,93,93,93,93
+51,Leistungsabzeichen 51,93,93,93,93,93,93
+52,Leistungsabzeichen 52,93,93,93,93,93,93
+53,Leistungsabzeichen 53,93,93,93,93,93,93
+54,Leistungsabzeichen 54,93,93,93,93,93,93
+55,Leistungsabzeichen 55,93,93,93,93,93,93
+56,Leistungsabzeichen 56,93,93,93,93,93,93
+57,Leistungsabzeichen 57,93,93,93,93,93,93
+58,Leistungsabzeichen 58,93,93,93,93,93,93
+59,Leistungsabzeichen 59,93,93,93,93,93,93
+60,Leistungsabzeichen 60,93,93,93,93,93,93
+1,Eichenblatt,90,90,-,90,90,-
+2,1. kleine Eichel,91,91,91,91,90,-
+3,2. kleine Eichel,92,92,92,91,91,-
+4,3. kleine Eichel,93,93,-,92,92,-
+5,4. kleine Eichel,94,94,-,93,93,-
+6,Jahresspange,95,95,-,94,93,-
+7,Anhänger zur Jahresspange,96,95,-,94,94,-
+8,1. Wiederholung,96,96,-,95,94,-
+9,2. Wiederholung,97,-,-,95,-,-
+10,3. Wiederholung,97,-,-,95,-,-
+11,4. Wiederholung,97,96,-,95,94,-
+12,5. Wiederholung,97,97,-,95,95,-
+13,6. Wiederholung,97,97,-,95,95,-
+14,große Spange,98,-,-,96,-,-
+15,1. Mini-Orden,97,96,96,95,95,-
+16,2. Mini-Orden,97,96,96,95,95,-
+17,3. Mini-Orden,97,96,96,95,95,-
+18,4. Mini-Orden,97,96,96,95,95,-
+19,5. Mini-Orden,97,96,96,95,95,-
+20,6. Mini-Orden,97,96,96,95,95,-
+21,kleine Kette,96,96,96,94,94,94
+22,1. Goldeichel zur Kette,96,95,95,94,94,94
+23,2. Goldeichel zur Kette,96,95,95,94,94,94
+24,3. Goldeichel zur Kette,96,95,95,94,94,94
+25,4. Goldeichel zur Kette,96,95,95,94,94,94
+26,5. Goldeichel zur Kette,95,95,95,95,95,95
+27,6. Goldeichel zur Kette,95,95,95,95,95,95
+28,7. Goldeichel zur Kette,95,95,95,95,95,95
+29,8. Goldeichel zur Kette,95,95,95,95,95,95
+30,9. Goldeichel zur Kette,95,95,95,95,95,95
+31,10. Goldeichel zur Kette,95,95,95,95,95,95
+32,Treue-Nadel in Bronze,94,94,94,94,94,94
+33,1. Treue-Anhänger Bronze,94,94,94,94,94,94
+34,2. Treue-Anhänger Bronze,94,94,94,94,94,94
+35,3. Treue-Anhänger Bronze,94,94,94,94,94,94
+36,4. Treue-Anhänger Bronze,94,94,94,94,94,94
+37,5. Treue-Anhänger Bronze,94,94,94,94,94,94
+38,6. Treue-Anhänger Bronze,93,93,93,93,93,93
+39,7. Treue-Anhänger Bronze,93,93,93,93,93,93
+40,Treue-Nadel in Silber,93,93,93,93,93,93
+41,1. Treue-Anhänger Silber,93,93,93,93,93,93
+42,2. Treue-Anhänger Silber,93,93,93,93,93,93
+43,3. Treue-Anhänger Silber,93,93,93,93,93,93
+44,4. Treue-Anhänger Silber,93,93,93,93,93,93
+45,5. Treue-Anhänger Silber,93,93,93,93,93,93
+46,6. Treue-Anhänger Silber,93,93,93,93,93,93
+47,7. Treue-Anhänger Silber,93,93,93,93,93,93
+48,8. Treue-Anhänger Silber,93,93,93,93,93,93
+49,9. Treue-Anhänger Silber,93,93,93,93,93,93
+50,Treue-Nadel in Gold,93,93,93,93,93,93
+51,1. Treue-Anhänger Gold,93,93,93,93,93,93
+52,2. Treue-Anhänger Gold,93,93,93,93,93,93
+53,3. Treue-Anhänger Gold,93,93,93,93,93,93
+54,4. Treue-Anhänger Gold,93,93,93,93,93,93
+55,5. Treue-Anhänger Gold,93,93,93,93,93,93
+56,6. Treue-Anhänger Gold,93,93,93,93,93,93
+57,7. Treue-Anhänger Gold,93,93,93,93,93,93
+58,8. Treue-Anhänger Gold,93,93,93,93,93,93
+59,9. Treue-Anhänger Gold,93,93,93,93,93,93
+…,…,-,-,-,-,-,-
