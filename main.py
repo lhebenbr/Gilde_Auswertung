@@ -106,13 +106,14 @@ def verarbeite_schuetzen(root, bedingungen_df, senioren_df, fehler_liste):
     auswertung = []
 
     for shooter in root.findall(".//shooter"):
-        clubsname = shooter.attrib.get("clubsname", "")
-        if clubsname not in bedingungen_df["Auszeichnung"].values:
+        clubsname = shooter.attrib.get("clubsname", "").lower()
+        if clubsname not in bedingungen_df["Auszeichnung"].str.lower().values:
             fehler_liste.append(f"Nicht gefunden: {shooter.attrib['idShooters']} - {shooter.attrib['lastname']}, {shooter.attrib['firstname']} (clubsname: {clubsname})")
             continue
 
         daten = {
             "Schuetzennummer": shooter.attrib["idShooters"],
+            "Bedingung": shooter.attrib["clubsname"],
             "Zugehoerigkeit": shooter.attrib["identification"],
             "Geburtsdatum": format_datum(shooter.attrib["birthdateiso"]),
             "Name": shooter.attrib["lastname"],
@@ -135,7 +136,7 @@ def verarbeite_schuetzen(root, bedingungen_df, senioren_df, fehler_liste):
         if not bedingung.empty:
             daten["Bedingung_Erfuellt"] = pruefe_bedingungen(daten, bedingung.iloc[0])
 
-        daten["Senioren_Bedingung_Erfüllt"] = pruefe_senioren_bedingung(shooter, serien_daten, senioren_df)
+        daten["Senioren_Bedingung_Erfuellt"] = pruefe_senioren_bedingung(shooter, serien_daten, senioren_df)
 
         auswertung.append(daten)
     return auswertung
