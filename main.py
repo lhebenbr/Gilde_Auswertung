@@ -14,10 +14,16 @@ def format_datum(iso_str):
     return datetime.strptime(iso_str, "%Y%m%d").strftime("%d/%m/%Y")
 
 def finde_xml_datei(verzeichnis):
-    for datei in os.listdir(verzeichnis):
-        if datei.endswith(".xml"):
-            return os.path.join(verzeichnis, datei)
-    raise FileNotFoundError("Keine XML-Datei im 'export'-Ordner gefunden!")
+    """
+    Finds the newest XML file in the specified directory.
+    """
+    xml_files = [os.path.join(verzeichnis, f) for f in os.listdir(verzeichnis) if f.endswith(".xml")]
+    if not xml_files:
+        raise FileNotFoundError(f"Keine XML-Datei im '{verzeichnis}'-Ordner gefunden!")
+
+    # Get the newest file based on modification time
+    newest_xml = max(xml_files, key=os.path.getmtime)
+    return newest_xml
 
 def lade_bedingungen():
     return {
@@ -61,7 +67,6 @@ def berechne_gesamt_ringzahl(serien):
     return ringe_gesamt
 
 def pruefe_bedingungen(daten, bedingungen_row):
-    # Jahr aus Geburtsdatum extrahieren
     geburtsdatum = datetime.strptime(daten["Geburtsdatum"], "%d/%m/%Y")
     alter = datetime.now().year - geburtsdatum.year
 
@@ -131,12 +136,17 @@ def verarbeite_schuetzen(root, bedingungen_df, senioren_df, fehler_liste):
         beste = berechne_beste_serien(serien_daten)
         ringe_gesamt = berechne_gesamt_ringzahl(serien_daten)
 
+        all_unique_dates = set()
+        for s in serien_daten:
+            all_unique_dates.add(s["datum"])
+        total_anwesenheiten = len(all_unique_dates)
+
         daten.update({
             "Bester_Score": beste[0]["totalscore"],
             "Zweiter_Score": beste[1]["totalscore"],
             "Dritter_Score": beste[2]["totalscore"],
             "Ringe_Gesamt": ringe_gesamt,
-            "Anwesenheiten": sum(s["anwesenheiten"] for s in beste if isinstance(s["anwesenheiten"], int))
+            "Anwesenheiten": total_anwesenheiten
         })
 
         bedingung = bedingungen_df[bedingungen_df["Auszeichnung"] == clubsname]
