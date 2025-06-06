@@ -117,8 +117,8 @@ def verarbeite_schuetzen(root, bedingungen_df, senioren_df, fehler_liste):
     auswertung = []
 
     for shooter in root.findall(".//shooter"):
-        clubsname = shooter.attrib.get("clubsname", "").lower()
-        if clubsname not in bedingungen_df["Auszeichnung"].str.lower().values:
+        clubsname = shooter.attrib.get("clubsname", "")
+        if clubsname not in bedingungen_df["Auszeichnung"].values:
             fehler_liste.append(f"Nicht gefunden: {shooter.attrib['idShooters']} - {shooter.attrib['lastname']}, {shooter.attrib['firstname']} (clubsname: {clubsname})")
             continue
 
