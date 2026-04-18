@@ -1,0 +1,462 @@
+{
+  "search_metadata": {
+    "id": "69e3f8ba3d36561b4180d1d9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/69e3f8ba3d36561b4180d1d9.json",
+    "created_at": "2026-04-18 21:33:46 UTC",
+    "processed_at": "2026-04-18 21:33:46 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?user=NSDlr5IAAAAJ&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/69e3f8ba3d36561b4180d1d9.html",
+    "total_time_taken": 5.39
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "author_id": "NSDlr5IAAAAJ",
+    "hl": "en"
+  },
+  "author": {
+    "name": "Li Chuin Chong",
+    "affiliations": "Ph.D. (Biomedical Data Science) candidate of Hannover Medical School; TWINCORE GmbH",
+    "email": "Verified email at stud.mhhannover.de",
+    "website": "https://chonglc.github.io/",
+    "interests": [
+      {
+        "title": "virus",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:virus",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avirus"
+      },
+      {
+        "title": "bioinformatics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:bioinformatics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abioinformatics"
+      },
+      {
+        "title": "viral informatics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:viral_informatics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aviral_informatics"
+      },
+      {
+        "title": "virus evolution",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:virus_evolution",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avirus_evolution"
+      },
+      {
+        "title": "sequence diversity",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sequence_diversity",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asequence_diversity"
+      }
+    ],
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NSDlr5IAAAAJ&citpid=4"
+  },
+  "articles": [
+    {
+      "title": "iCn3D: From Web-Based 3D Viewer to Structural Analysis Tool in Batch Mode",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:YsMSGLbcyi4C",
+      "citation_id": "NSDlr5IAAAAJ:YsMSGLbcyi4C",
+      "authors": "J Wang, P Youkharibache, A Marchler-Bauer, C Lanczycki, D Zhang, S Lu, ...",
+      "publication": "Frontiers in Molecular Biosciences, 102, 2022",
+      "cited_by": {
+        "value": 66,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13817718267411955586",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13817718267411955586&engine=google_scholar&hl=en",
+        "cites_id": "13817718267411955586"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Role of Probiotics in the Management of COVID-19: A Computational Perspective",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:W7OEmFMy1HYC",
+      "citation_id": "NSDlr5IAAAAJ:W7OEmFMy1HYC",
+      "authors": "QV Nguyen, LC Chong, YY Hor, LC Lew, IA Rather, SB Choi",
+      "publication": "Nutrients 14 (2), 274, 2022",
+      "cited_by": {
+        "value": 62,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8815560441197577336",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8815560441197577336&engine=google_scholar&hl=en",
+        "cites_id": "8815560441197577336"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Psychological impacts and post-traumatic stress disorder among people under COVID-19 quarantine and isolation: a global survey",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:UeHWp8X0CEIC",
+      "citation_id": "NSDlr5IAAAAJ:UeHWp8X0CEIC",
+      "authors": "TG COVID",
+      "publication": "International journal of environmental research and public health 18 (11), 5719, 2021",
+      "cited_by": {
+        "value": 44,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4083654604398216056,2007225707164780946",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4083654604398216056%2C2007225707164780946&engine=google_scholar&hl=en",
+        "cites_id": "4083654604398216056,2007225707164780946"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Perceived Stress of Quarantine and Isolation During COVID-19 Pandemic: A Global Survey",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:IjCSPb-OGe4C",
+      "citation_id": "NSDlr5IAAAAJ:IjCSPb-OGe4C",
+      "authors": "TGC Collaborative",
+      "publication": "Frontiers in Psychiatry 12, 651, 2021",
+      "cited_by": {
+        "value": 41,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12362774368887476991,16442833274616588016",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12362774368887476991%2C16442833274616588016&engine=google_scholar&hl=en",
+        "cites_id": "12362774368887476991,16442833274616588016"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Drug Discovery of Spinal Muscular Atrophy (SMA) from the Computational Perspective: A Comprehensive Review",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:zYLM7Y9cAGgC",
+      "citation_id": "NSDlr5IAAAAJ:zYLM7Y9cAGgC",
+      "authors": "LC Chong, G Gandhi, JM Lee, WWY Yeo, SB Choi",
+      "publication": "International Journal of Molecular Sciences 22 (16), 8962, 2021",
+      "cited_by": {
+        "value": 29,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=990848454741956234",
+        "serpapi_link": "https://serpapi.com/search.json?cites=990848454741956234&engine=google_scholar&hl=en",
+        "cites_id": "990848454741956234"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Vaccine target discovery",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:u-x6o8ySG0sC",
+      "citation_id": "NSDlr5IAAAAJ:u-x6o8ySG0sC",
+      "authors": "LC Chong, AM Khan",
+      "publication": "Encyclopedia of Bioinformatics and Computational Biology, 241, 2019",
+      "cited_by": {
+        "value": 29,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7793892791540592384",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7793892791540592384&engine=google_scholar&hl=en",
+        "cites_id": "7793892791540592384"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Identification of highly conserved, serotype-specific dengue virus sequences: implications for vaccine design",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:d1gkVwhDpl0C",
+      "citation_id": "NSDlr5IAAAAJ:d1gkVwhDpl0C",
+      "authors": "LC Chong, AM Khan",
+      "publication": "BMC genomics 20, 1-18, 2019",
+      "cited_by": {
+        "value": 27,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2417741709540411441",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2417741709540411441&engine=google_scholar&hl=en",
+        "cites_id": "2417741709540411441"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Consensus statement from the first RdRp Summit: advancing RNA virus discovery at scale across communities",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:0EnyYjriUFMC",
+      "citation_id": "NSDlr5IAAAAJ:0EnyYjriUFMC",
+      "authors": "J Charon, I Olendraite, M Forgia, LC Chong, LS Hillary, S Roux, ...",
+      "publication": "Frontiers in Virology 4, 1371958, 2024",
+      "cited_by": {
+        "value": 16,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11118823642951812951",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11118823642951812951&engine=google_scholar&hl=en",
+        "cites_id": "11118823642951812951"
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Genomic analysis and biological characterization of a novel Schitoviridae phage infecting Vibrio alginolyticus",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:Se3iqnhoufwC",
+      "citation_id": "NSDlr5IAAAAJ:Se3iqnhoufwC",
+      "authors": "S Tajuddin, AM Khan, LC Chong, CL Wong, JS Tan, MY Ina-Salwany, ...",
+      "publication": "Applied Microbiology and Biotechnology 107 (2-3), 749-768, 2023",
+      "cited_by": {
+        "value": 15,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10013059636131514674",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10013059636131514674&engine=google_scholar&hl=en",
+        "cites_id": "10013059636131514674"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Expression, purification and characterization of the dimeric protruding domain of Macrobrachium rosenbergii nodavirus capsid protein expressed in Escherichia coli",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:u5HHmVD_uO8C",
+      "citation_id": "NSDlr5IAAAAJ:u5HHmVD_uO8C",
+      "authors": "LC Chong, H Ganesan, CY Yong, WS Tan, KL Ho",
+      "publication": "PloS one 14 (2), e0211740, 2019",
+      "cited_by": {
+        "value": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3183643394494771920",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3183643394494771920&engine=google_scholar&hl=en",
+        "cites_id": "3183643394494771920"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Viroid-like RNA-dependent RNA polymerase-encoding ambiviruses are abundant in complex fungi",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:UebtZRa9Y70C",
+      "citation_id": "NSDlr5IAAAAJ:UebtZRa9Y70C",
+      "authors": "LC Chong, C Lauber",
+      "publication": "Frontiers in Microbiology 14, 1144003, 2023",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4132961262210105126",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4132961262210105126&engine=google_scholar&hl=en",
+        "cites_id": "4132961262210105126"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "The third international hackathon for applying insights into large-scale genomic composition to use cases in a wide range of organisms",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:eQOLeE2rZwMC",
+      "citation_id": "NSDlr5IAAAAJ:eQOLeE2rZwMC",
+      "authors": "K Walker, D Kalra, R Lowdon, G Chen, D Molik, DC Soto, F Dabbaghie, ...",
+      "publication": "F1000Research 11, 2022",
+      "cited_by": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8485022987065575994",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8485022987065575994&engine=google_scholar&hl=en",
+        "cites_id": "8485022987065575994"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Avian Influenza H7N9 Virus Adaptation to Human Hosts",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:9yKSN-GCB0IC",
+      "citation_id": "NSDlr5IAAAAJ:9yKSN-GCB0IC",
+      "authors": "S Tan, MF Sjaugi, SC Fong, LC Chong, HS Abd Raman, ...",
+      "publication": "Viruses 13 (5), 871, 2021",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12489235815477999215",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12489235815477999215&engine=google_scholar&hl=en",
+        "cites_id": "12489235815477999215"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "An Alignment-Independent Approach for the Study of Viral Sequence Diversity at Any Given Rank of Taxonomy Lineage",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:Tyk-4Ss8FVUC",
+      "citation_id": "NSDlr5IAAAAJ:Tyk-4Ss8FVUC",
+      "authors": "LC Chong, WL Lim, KHK Ban, AM Khan",
+      "publication": "Biology 10 (9), 853, 2021",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11667590571910724342",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11667590571910724342&engine=google_scholar&hl=en",
+        "cites_id": "11667590571910724342"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "UNIQmin, an alignment-free tool to study viral sequence diversity across taxonomic lineages: a case study of monkeypox virus",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:WF5omc3nYNoC",
+      "citation_id": "NSDlr5IAAAAJ:WF5omc3nYNoC",
+      "authors": "LC Chong, AM Khan",
+      "publication": "bioRxiv, 2022.08. 09.503271, 2022",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6751412276112459459",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6751412276112459459&engine=google_scholar&hl=en",
+        "cites_id": "6751412276112459459"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Machine learning approaches to study the structure-activity relationships of LpxC inhibitors",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:hqOjcs7Dif8C",
+      "citation_id": "NSDlr5IAAAAJ:hqOjcs7Dif8C",
+      "authors": "T Yu, LC Chong, C Nantasenamat, N Anuwongcharoen, T Piacham",
+      "publication": "EXCLI Journal 22, 975-991, 2023",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10443096378235247883",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10443096378235247883&engine=google_scholar&hl=en",
+        "cites_id": "10443096378235247883"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Negligible peptidome diversity of SARS-CoV-2 and its higher taxonomic ranks",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:LkGwnXOMwfcC",
+      "citation_id": "NSDlr5IAAAAJ:LkGwnXOMwfcC",
+      "authors": "LC Chong, AM Khan",
+      "publication": "bioRxiv, 2022.10. 31.513750, 2022",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10742998547235249739",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10742998547235249739&engine=google_scholar&hl=en",
+        "cites_id": "10742998547235249739"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Addressing Background Genomic and Environmental Effects on Health through Accelerated Computing and Machine Learning: Results from the 2025 Hackathon at Carnegie Mellon University",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:kNdYIx-mwKoC",
+      "citation_id": "NSDlr5IAAAAJ:kNdYIx-mwKoC",
+      "authors": "S Sabata, J Kubica, R Gupta, L Ericson, H Atanda, G Subramaniam, ...",
+      "publication": "OSF, 2025",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3750224047424694656",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3750224047424694656&engine=google_scholar&hl=en",
+        "cites_id": "3750224047424694656"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Characterization of the host specificity of the SH3 cell wall binding domain of the staphylococcal phage 88 endolysin",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:8k81kl-MbHgC",
+      "citation_id": "NSDlr5IAAAAJ:8k81kl-MbHgC",
+      "authors": "HY Tham, LC Chong, M Krishnan, AM Khan, SB Choi, T Tamura, K Yusoff, ...",
+      "publication": "Archives of Microbiology 207 (2), 47, 2025",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15942866109286535442",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15942866109286535442&engine=google_scholar&hl=en",
+        "cites_id": "15942866109286535442"
+      },
+      "year": "2025"
+    },
+    {
+      "title": "Historical milestone in 42 years of viral sequencing-impetus for a community-driven sequencing of global priority pathogens",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:roLk4NBRz8UC",
+      "citation_id": "NSDlr5IAAAAJ:roLk4NBRz8UC",
+      "authors": "LC Chong, AM Khan",
+      "publication": "Frontiers in Microbiology 13, 4339, 2022",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18175173433490040362",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18175173433490040362&engine=google_scholar&hl=en",
+        "cites_id": "18175173433490040362"
+      },
+      "year": "2022"
+    }
+  ],
+  "cited_by": {
+    "table": [
+      {
+        "citations": {
+          "all": 385,
+          "since_2021": 367
+        }
+      },
+      {
+        "h_index": {
+          "all": 11,
+          "since_2021": 11
+        }
+      },
+      {
+        "i10_index": {
+          "all": 11,
+          "since_2021": 11
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2019,
+        "citations": 2
+      },
+      {
+        "year": 2020,
+        "citations": 13
+      },
+      {
+        "year": 2021,
+        "citations": 32
+      },
+      {
+        "year": 2022,
+        "citations": 81
+      },
+      {
+        "year": 2023,
+        "citations": 81
+      },
+      {
+        "year": 2024,
+        "citations": 81
+      },
+      {
+        "year": 2025,
+        "citations": 69
+      },
+      {
+        "year": 2026,
+        "citations": 22
+      }
+    ]
+  },
+  "public_access": {
+    "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=NSDlr5IAAAAJ",
+    "available": 10,
+    "not_available": 1
+  },
+  "co_authors": [
+    {
+      "name": "Mohammad Asif Khan",
+      "link": "https://scholar.google.com/citations?user=gHTr6DoAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=gHTr6DoAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "gHTr6DoAAAAJ",
+      "affiliations": "University of Doha for Science and Technology, Qatar",
+      "email": "Verified email at udst.edu.qa",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gHTr6DoAAAAJ&citpid=6"
+    },
+    {
+      "name": "Sy Bing Choi",
+      "link": "https://scholar.google.com/citations?user=55on7_AAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=55on7_AAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "55on7_AAAAAJ",
+      "affiliations": "Associate Professor, UCSI University, Faculty of Applied Sciences",
+      "email": "Verified email at ucsiuniversity.edu.my",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=55on7_AAAAAJ&citpid=4"
+    },
+    {
+      "name": "Kok Lian Ho",
+      "link": "https://scholar.google.com/citations?user=e8ZmqC4AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=e8ZmqC4AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "e8ZmqC4AAAAJ",
+      "affiliations": "Universiti Putra Malaysia",
+      "email": "Verified email at upm.edu.my",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=e8ZmqC4AAAAJ&citpid=5"
+    },
+    {
+      "name": "Wen Siang TAN",
+      "link": "https://scholar.google.com/citations?user=-lbcsU0AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=-lbcsU0AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "-lbcsU0AAAAJ",
+      "affiliations": "Professor of Molecular Virology, Universiti Putra Malaysia",
+      "email": "Verified email at upm.edu.my",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-lbcsU0AAAAJ&citpid=3"
+    },
+    {
+      "name": "Chris Lauber",
+      "link": "https://scholar.google.com/citations?user=kCoqYS4AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=kCoqYS4AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "kCoqYS4AAAAJ",
+      "affiliations": "W1 Professor for Computional Virology, TWINCORE and MHH",
+      "email": "Verified email at twincore.de",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Swan Tan",
+      "link": "https://scholar.google.com/citations?user=24GCF6EAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=24GCF6EAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "24GCF6EAAAAJ",
+      "affiliations": "University of Georgia",
+      "email": "Verified email at uga.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=24GCF6EAAAAJ&citpid=19"
+    },
+    {
+      "name": "Chanin Nantasenamat",
+      "link": "https://scholar.google.com/citations?user=caPm7QEAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=caPm7QEAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "caPm7QEAAAAJ",
+      "affiliations": "Streamlit Open Source, Snowflake Inc.",
+      "email": "Verified email at snowflake.com",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=caPm7QEAAAAJ&citpid=1"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?author_id=NSDlr5IAAAAJ&engine=google_scholar_author&hl=en&start=20"
+  }
+}
