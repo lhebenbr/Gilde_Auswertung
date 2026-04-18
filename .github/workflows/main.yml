@@ -1,0 +1,43 @@
+name: Monatliches API Update (Google Scholar)
+
+# Wann soll der Workflow laufen?
+on:
+  schedule:
+    # Jeden 1. des Monats um 00:00 Uhr UTC
+    - cron: '0 0 1 * *'
+  # Dies erlaubt es dir, das Skript zum Testen auch manuell über einen Button zu starten!
+  workflow_dispatch:
+
+# Gibt der Action die nötigen Schreibrechte, um die neue Datei in dein Repo hochzuladen
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Lädt deinen aktuellen Code herunter
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 2. Ruft SerpApi auf und speichert das Ergebnis direkt als data.json im Hauptverzeichnis
+      - name: API aufrufen und speichern
+        # Wir laden den geheimen Key aus Schritt 1 sicher in die Action
+        env:
+          API_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: |
+          curl -s "https://serpapi.com/search.json?engine=google_scholar_author&author_id=NSDlr5IAAAAJ&api_key=${API_KEY}" > data.json
+
+      # 3. Speichert die Datei als neuen Commit und pusht sie auf GitHub
+      - name: Änderungen committen und pushen
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data.json
+          
+          # Das "|| echo..." verhindert, dass die Action abstürzt, falls sich 
+          # die Zitationszahlen in diesem Monat mal nicht verändert haben.
+          git commit -m "Automatisches Update: data.json via SerpApi aktualisiert" || echo "Keine Änderungen zum Committen"
+          
+          git push
