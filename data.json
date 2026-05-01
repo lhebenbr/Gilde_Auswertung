@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69e3f8ba3d36561b4180d1d9",
+    "id": "69f41cbc06ca7fe4dc6fb26f",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/69e3f8ba3d36561b4180d1d9.json",
-    "created_at": "2026-04-18 21:33:46 UTC",
-    "processed_at": "2026-04-18 21:33:46 UTC",
+    "json_endpoint": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/69f41cbc06ca7fe4dc6fb26f.json",
+    "created_at": "2026-05-01 03:23:40 UTC",
+    "processed_at": "2026-05-01 03:23:40 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=NSDlr5IAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/69e3f8ba3d36561b4180d1d9.html",
-    "total_time_taken": 5.39
+    "raw_html_file": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/69f41cbc06ca7fe4dc6fb26f.html",
+    "total_time_taken": 1.15
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -46,7 +46,7 @@
         "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asequence_diversity"
       }
     ],
-    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NSDlr5IAAAAJ&citpid=4"
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NSDlr5IAAAAJ&citpid=5"
   },
   "articles": [
     {
@@ -56,7 +56,7 @@
       "authors": "J Wang, P Youkharibache, A Marchler-Bauer, C Lanczycki, D Zhang, S Lu, ...",
       "publication": "Frontiers in Molecular Biosciences, 102, 2022",
       "cited_by": {
-        "value": 66,
+        "value": 70,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13817718267411955586",
         "serpapi_link": "https://serpapi.com/search.json?cites=13817718267411955586&engine=google_scholar&hl=en",
         "cites_id": "13817718267411955586"
@@ -70,7 +70,7 @@
       "authors": "QV Nguyen, LC Chong, YY Hor, LC Lew, IA Rather, SB Choi",
       "publication": "Nutrients 14 (2), 274, 2022",
       "cited_by": {
-        "value": 62,
+        "value": 64,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8815560441197577336",
         "serpapi_link": "https://serpapi.com/search.json?cites=8815560441197577336&engine=google_scholar&hl=en",
         "cites_id": "8815560441197577336"
@@ -196,7 +196,7 @@
       "authors": "LC Chong, C Lauber",
       "publication": "Frontiers in Microbiology 14, 1144003, 2023",
       "cited_by": {
-        "value": 11,
+        "value": 12,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4132961262210105126",
         "serpapi_link": "https://serpapi.com/search.json?cites=4132961262210105126&engine=google_scholar&hl=en",
         "cites_id": "4132961262210105126"
@@ -246,6 +246,20 @@
       "year": "2021"
     },
     {
+      "title": "Machine learning approaches to study the structure-activity relationships of LpxC inhibitors",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:hqOjcs7Dif8C",
+      "citation_id": "NSDlr5IAAAAJ:hqOjcs7Dif8C",
+      "authors": "T Yu, LC Chong, C Nantasenamat, N Anuwongcharoen, T Piacham",
+      "publication": "EXCLI Journal 22, 975-991, 2023",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10443096378235247883",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10443096378235247883&engine=google_scholar&hl=en",
+        "cites_id": "10443096378235247883"
+      },
+      "year": "2023"
+    },
+    {
       "title": "UNIQmin, an alignment-free tool to study viral sequence diversity across taxonomic lineages: a case study of monkeypox virus",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:WF5omc3nYNoC",
       "citation_id": "NSDlr5IAAAAJ:WF5omc3nYNoC",
@@ -258,20 +272,6 @@
         "cites_id": "6751412276112459459"
       },
       "year": "2022"
-    },
-    {
-      "title": "Machine learning approaches to study the structure-activity relationships of LpxC inhibitors",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:hqOjcs7Dif8C",
-      "citation_id": "NSDlr5IAAAAJ:hqOjcs7Dif8C",
-      "authors": "T Yu, LC Chong, C Nantasenamat, N Anuwongcharoen, T Piacham",
-      "publication": "EXCLI Journal 22, 975-991, 2023",
-      "cited_by": {
-        "value": 2,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10443096378235247883",
-        "serpapi_link": "https://serpapi.com/search.json?cites=10443096378235247883&engine=google_scholar&hl=en",
-        "cites_id": "10443096378235247883"
-      },
-      "year": "2023"
     },
     {
       "title": "Negligible peptidome diversity of SARS-CoV-2 and its higher taxonomic ranks",
@@ -334,8 +334,8 @@
     "table": [
       {
         "citations": {
-          "all": 385,
-          "since_2021": 367
+          "all": 393,
+          "since_2021": 375
         }
       },
       {
@@ -366,23 +366,23 @@
       },
       {
         "year": 2022,
-        "citations": 81
+        "citations": 80
       },
       {
         "year": 2023,
-        "citations": 81
+        "citations": 82
       },
       {
         "year": 2024,
-        "citations": 81
+        "citations": 80
       },
       {
         "year": 2025,
-        "citations": 69
+        "citations": 73
       },
       {
         "year": 2026,
-        "citations": 22
+        "citations": 27
       }
     ]
   },
