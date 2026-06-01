@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69f41cbc06ca7fe4dc6fb26f",
+    "id": "6a1d04836f1e401216fecf39",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/69f41cbc06ca7fe4dc6fb26f.json",
-    "created_at": "2026-05-01 03:23:40 UTC",
-    "processed_at": "2026-05-01 03:23:40 UTC",
+    "json_endpoint": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/6a1d04836f1e401216fecf39.json",
+    "created_at": "2026-06-01 04:03:15 UTC",
+    "processed_at": "2026-06-01 04:03:15 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=NSDlr5IAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/69f41cbc06ca7fe4dc6fb26f.html",
-    "total_time_taken": 1.15
+    "raw_html_file": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/6a1d04836f1e401216fecf39.html",
+    "total_time_taken": 0.54
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -70,7 +70,7 @@
       "authors": "QV Nguyen, LC Chong, YY Hor, LC Lew, IA Rather, SB Choi",
       "publication": "Nutrients 14 (2), 274, 2022",
       "cited_by": {
-        "value": 64,
+        "value": 65,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8815560441197577336",
         "serpapi_link": "https://serpapi.com/search.json?cites=8815560441197577336&engine=google_scholar&hl=en",
         "cites_id": "8815560441197577336"
@@ -84,7 +84,7 @@
       "authors": "TG COVID",
       "publication": "International journal of environmental research and public health 18 (11), 5719, 2021",
       "cited_by": {
-        "value": 44,
+        "value": 45,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4083654604398216056,2007225707164780946",
         "serpapi_link": "https://serpapi.com/search.json?cites=4083654604398216056%2C2007225707164780946&engine=google_scholar&hl=en",
         "cites_id": "4083654604398216056,2007225707164780946"
@@ -98,7 +98,7 @@
       "authors": "TGC Collaborative",
       "publication": "Frontiers in Psychiatry 12, 651, 2021",
       "cited_by": {
-        "value": 41,
+        "value": 42,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12362774368887476991,16442833274616588016",
         "serpapi_link": "https://serpapi.com/search.json?cites=12362774368887476991%2C16442833274616588016&engine=google_scholar&hl=en",
         "cites_id": "12362774368887476991,16442833274616588016"
@@ -112,7 +112,7 @@
       "authors": "LC Chong, G Gandhi, JM Lee, WWY Yeo, SB Choi",
       "publication": "International Journal of Molecular Sciences 22 (16), 8962, 2021",
       "cited_by": {
-        "value": 29,
+        "value": 33,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=990848454741956234",
         "serpapi_link": "https://serpapi.com/search.json?cites=990848454741956234&engine=google_scholar&hl=en",
         "cites_id": "990848454741956234"
@@ -126,7 +126,7 @@
       "authors": "LC Chong, AM Khan",
       "publication": "Encyclopedia of Bioinformatics and Computational Biology, 241, 2019",
       "cited_by": {
-        "value": 29,
+        "value": 30,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7793892791540592384",
         "serpapi_link": "https://serpapi.com/search.json?cites=7793892791540592384&engine=google_scholar&hl=en",
         "cites_id": "7793892791540592384"
@@ -154,7 +154,7 @@
       "authors": "J Charon, I Olendraite, M Forgia, LC Chong, LS Hillary, S Roux, ...",
       "publication": "Frontiers in Virology 4, 1371958, 2024",
       "cited_by": {
-        "value": 16,
+        "value": 18,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11118823642951812951",
         "serpapi_link": "https://serpapi.com/search.json?cites=11118823642951812951&engine=google_scholar&hl=en",
         "cites_id": "11118823642951812951"
@@ -182,7 +182,7 @@
       "authors": "LC Chong, H Ganesan, CY Yong, WS Tan, KL Ho",
       "publication": "PloS one 14 (2), e0211740, 2019",
       "cited_by": {
-        "value": 14,
+        "value": 15,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3183643394494771920",
         "serpapi_link": "https://serpapi.com/search.json?cites=3183643394494771920&engine=google_scholar&hl=en",
         "cites_id": "3183643394494771920"
@@ -274,6 +274,20 @@
       "year": "2022"
     },
     {
+      "title": "Characterization of the host specificity of the SH3 cell wall binding domain of the staphylococcal phage 88 endolysin",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:8k81kl-MbHgC",
+      "citation_id": "NSDlr5IAAAAJ:8k81kl-MbHgC",
+      "authors": "HY Tham, LC Chong, M Krishnan, AM Khan, SB Choi, T Tamura, K Yusoff, ...",
+      "publication": "Archives of Microbiology 207 (2), 47, 2025",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15942866109286535442",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15942866109286535442&engine=google_scholar&hl=en",
+        "cites_id": "15942866109286535442"
+      },
+      "year": "2025"
+    },
+    {
       "title": "Negligible peptidome diversity of SARS-CoV-2 and its higher taxonomic ranks",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:LkGwnXOMwfcC",
       "citation_id": "NSDlr5IAAAAJ:LkGwnXOMwfcC",
@@ -302,40 +316,25 @@
       "year": "2025"
     },
     {
-      "title": "Characterization of the host specificity of the SH3 cell wall binding domain of the staphylococcal phage 88 endolysin",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:8k81kl-MbHgC",
-      "citation_id": "NSDlr5IAAAAJ:8k81kl-MbHgC",
-      "authors": "HY Tham, LC Chong, M Krishnan, AM Khan, SB Choi, T Tamura, K Yusoff, ...",
-      "publication": "Archives of Microbiology 207 (2), 47, 2025",
+      "title": "Consensus statement from the second RdRp Summit: towards a unified framework for RNA virus biology",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:3fE2CSJIrl8C",
+      "citation_id": "NSDlr5IAAAAJ:3fE2CSJIrl8C",
+      "authors": "A Lucaci, H Shaikh, LC Chong, R Tahzima, M Forgia, KB Mansour, ...",
       "cited_by": {
         "value": 1,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15942866109286535442",
-        "serpapi_link": "https://serpapi.com/search.json?cites=15942866109286535442&engine=google_scholar&hl=en",
-        "cites_id": "15942866109286535442"
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5009276047068831064",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5009276047068831064&engine=google_scholar&hl=en",
+        "cites_id": "5009276047068831064"
       },
       "year": "2025"
-    },
-    {
-      "title": "Historical milestone in 42 years of viral sequencing-impetus for a community-driven sequencing of global priority pathogens",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:roLk4NBRz8UC",
-      "citation_id": "NSDlr5IAAAAJ:roLk4NBRz8UC",
-      "authors": "LC Chong, AM Khan",
-      "publication": "Frontiers in Microbiology 13, 4339, 2022",
-      "cited_by": {
-        "value": 1,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18175173433490040362",
-        "serpapi_link": "https://serpapi.com/search.json?cites=18175173433490040362&engine=google_scholar&hl=en",
-        "cites_id": "18175173433490040362"
-      },
-      "year": "2022"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 393,
-          "since_2021": 375
+          "all": 406,
+          "since_2021": 388
         }
       },
       {
@@ -378,17 +377,17 @@
       },
       {
         "year": 2025,
-        "citations": 73
+        "citations": 71
       },
       {
         "year": 2026,
-        "citations": 27
+        "citations": 41
       }
     ]
   },
   "public_access": {
     "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=NSDlr5IAAAAJ",
-    "available": 10,
+    "available": 11,
     "not_available": 1
   },
   "co_authors": [
