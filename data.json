@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a1d04836f1e401216fecf39",
+    "id": "6a448ef8f30d13318ad595a4",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/6a1d04836f1e401216fecf39.json",
-    "created_at": "2026-06-01 04:03:15 UTC",
-    "processed_at": "2026-06-01 04:03:15 UTC",
+    "json_endpoint": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/6a448ef8f30d13318ad595a4.json",
+    "created_at": "2026-07-01 03:52:24 UTC",
+    "processed_at": "2026-07-01 03:52:24 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=NSDlr5IAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/6a1d04836f1e401216fecf39.html",
-    "total_time_taken": 0.54
+    "raw_html_file": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/6a448ef8f30d13318ad595a4.html",
+    "total_time_taken": 0.97
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -56,7 +56,7 @@
       "authors": "J Wang, P Youkharibache, A Marchler-Bauer, C Lanczycki, D Zhang, S Lu, ...",
       "publication": "Frontiers in Molecular Biosciences, 102, 2022",
       "cited_by": {
-        "value": 70,
+        "value": 71,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13817718267411955586",
         "serpapi_link": "https://serpapi.com/search.json?cites=13817718267411955586&engine=google_scholar&hl=en",
         "cites_id": "13817718267411955586"
@@ -84,7 +84,7 @@
       "authors": "TG COVID",
       "publication": "International journal of environmental research and public health 18 (11), 5719, 2021",
       "cited_by": {
-        "value": 45,
+        "value": 46,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4083654604398216056,2007225707164780946",
         "serpapi_link": "https://serpapi.com/search.json?cites=4083654604398216056%2C2007225707164780946&engine=google_scholar&hl=en",
         "cites_id": "4083654604398216056,2007225707164780946"
@@ -98,7 +98,7 @@
       "authors": "TGC Collaborative",
       "publication": "Frontiers in Psychiatry 12, 651, 2021",
       "cited_by": {
-        "value": 42,
+        "value": 43,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12362774368887476991,16442833274616588016",
         "serpapi_link": "https://serpapi.com/search.json?cites=12362774368887476991%2C16442833274616588016&engine=google_scholar&hl=en",
         "cites_id": "12362774368887476991,16442833274616588016"
@@ -112,7 +112,7 @@
       "authors": "LC Chong, G Gandhi, JM Lee, WWY Yeo, SB Choi",
       "publication": "International Journal of Molecular Sciences 22 (16), 8962, 2021",
       "cited_by": {
-        "value": 33,
+        "value": 32,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=990848454741956234",
         "serpapi_link": "https://serpapi.com/search.json?cites=990848454741956234&engine=google_scholar&hl=en",
         "cites_id": "990848454741956234"
@@ -154,7 +154,7 @@
       "authors": "J Charon, I Olendraite, M Forgia, LC Chong, LS Hillary, S Roux, ...",
       "publication": "Frontiers in Virology 4, 1371958, 2024",
       "cited_by": {
-        "value": 18,
+        "value": 20,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11118823642951812951",
         "serpapi_link": "https://serpapi.com/search.json?cites=11118823642951812951&engine=google_scholar&hl=en",
         "cites_id": "11118823642951812951"
@@ -196,7 +196,7 @@
       "authors": "LC Chong, C Lauber",
       "publication": "Frontiers in Microbiology 14, 1144003, 2023",
       "cited_by": {
-        "value": 12,
+        "value": 13,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4132961262210105126",
         "serpapi_link": "https://serpapi.com/search.json?cites=4132961262210105126&engine=google_scholar&hl=en",
         "cites_id": "4132961262210105126"
@@ -232,6 +232,20 @@
       "year": "2021"
     },
     {
+      "title": "Machine learning approaches to study the structure-activity relationships of LpxC inhibitors",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:hqOjcs7Dif8C",
+      "citation_id": "NSDlr5IAAAAJ:hqOjcs7Dif8C",
+      "authors": "T Yu, LC Chong, C Nantasenamat, N Anuwongcharoen, T Piacham",
+      "publication": "EXCLI Journal 22, 975-991, 2023",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10443096378235247883",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10443096378235247883&engine=google_scholar&hl=en",
+        "cites_id": "10443096378235247883"
+      },
+      "year": "2023"
+    },
+    {
       "title": "An Alignment-Independent Approach for the Study of Viral Sequence Diversity at Any Given Rank of Taxonomy Lineage",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:Tyk-4Ss8FVUC",
       "citation_id": "NSDlr5IAAAAJ:Tyk-4Ss8FVUC",
@@ -244,20 +258,6 @@
         "cites_id": "11667590571910724342"
       },
       "year": "2021"
-    },
-    {
-      "title": "Machine learning approaches to study the structure-activity relationships of LpxC inhibitors",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:hqOjcs7Dif8C",
-      "citation_id": "NSDlr5IAAAAJ:hqOjcs7Dif8C",
-      "authors": "T Yu, LC Chong, C Nantasenamat, N Anuwongcharoen, T Piacham",
-      "publication": "EXCLI Journal 22, 975-991, 2023",
-      "cited_by": {
-        "value": 3,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10443096378235247883",
-        "serpapi_link": "https://serpapi.com/search.json?cites=10443096378235247883&engine=google_scholar&hl=en",
-        "cites_id": "10443096378235247883"
-      },
-      "year": "2023"
     },
     {
       "title": "UNIQmin, an alignment-free tool to study viral sequence diversity across taxonomic lineages: a case study of monkeypox virus",
@@ -333,8 +333,8 @@
     "table": [
       {
         "citations": {
-          "all": 406,
-          "since_2021": 388
+          "all": 412,
+          "since_2021": 394
         }
       },
       {
@@ -373,7 +373,7 @@
       },
       {
         "year": 2024,
-        "citations": 80
+        "citations": 81
       },
       {
         "year": 2025,
@@ -381,13 +381,13 @@
       },
       {
         "year": 2026,
-        "citations": 41
+        "citations": 45
       }
     ]
   },
   "public_access": {
     "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=NSDlr5IAAAAJ",
-    "available": 11,
+    "available": 12,
     "not_available": 1
   },
   "co_authors": [
