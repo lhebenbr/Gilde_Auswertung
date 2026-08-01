@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a448ef8f30d13318ad595a4",
+    "id": "6a6d5d7988de921c19130efa",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/6a448ef8f30d13318ad595a4.json",
-    "created_at": "2026-07-01 03:52:24 UTC",
-    "processed_at": "2026-07-01 03:52:24 UTC",
+    "json_endpoint": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/6a6d5d7988de921c19130efa.json",
+    "created_at": "2026-08-01 02:44:09 UTC",
+    "processed_at": "2026-08-01 02:44:09 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=NSDlr5IAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/6a448ef8f30d13318ad595a4.html",
-    "total_time_taken": 0.97
+    "raw_html_file": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/6a6d5d7988de921c19130efa.html",
+    "total_time_taken": 5.97
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -56,7 +56,7 @@
       "authors": "J Wang, P Youkharibache, A Marchler-Bauer, C Lanczycki, D Zhang, S Lu, ...",
       "publication": "Frontiers in Molecular Biosciences, 102, 2022",
       "cited_by": {
-        "value": 71,
+        "value": 73,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13817718267411955586",
         "serpapi_link": "https://serpapi.com/search.json?cites=13817718267411955586&engine=google_scholar&hl=en",
         "cites_id": "13817718267411955586"
@@ -70,7 +70,7 @@
       "authors": "QV Nguyen, LC Chong, YY Hor, LC Lew, IA Rather, SB Choi",
       "publication": "Nutrients 14 (2), 274, 2022",
       "cited_by": {
-        "value": 65,
+        "value": 66,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8815560441197577336",
         "serpapi_link": "https://serpapi.com/search.json?cites=8815560441197577336&engine=google_scholar&hl=en",
         "cites_id": "8815560441197577336"
@@ -154,7 +154,7 @@
       "authors": "J Charon, I Olendraite, M Forgia, LC Chong, LS Hillary, S Roux, ...",
       "publication": "Frontiers in Virology 4, 1371958, 2024",
       "cited_by": {
-        "value": 20,
+        "value": 23,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11118823642951812951",
         "serpapi_link": "https://serpapi.com/search.json?cites=11118823642951812951&engine=google_scholar&hl=en",
         "cites_id": "11118823642951812951"
@@ -196,7 +196,7 @@
       "authors": "LC Chong, C Lauber",
       "publication": "Frontiers in Microbiology 14, 1144003, 2023",
       "cited_by": {
-        "value": 13,
+        "value": 14,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4132961262210105126",
         "serpapi_link": "https://serpapi.com/search.json?cites=4132961262210105126&engine=google_scholar&hl=en",
         "cites_id": "4132961262210105126"
@@ -333,8 +333,8 @@
     "table": [
       {
         "citations": {
-          "all": 412,
-          "since_2021": 394
+          "all": 419,
+          "since_2021": 401
         }
       },
       {
@@ -365,29 +365,29 @@
       },
       {
         "year": 2022,
-        "citations": 80
+        "citations": 79
       },
       {
         "year": 2023,
-        "citations": 82
+        "citations": 83
       },
       {
         "year": 2024,
-        "citations": 81
+        "citations": 84
       },
       {
         "year": 2025,
-        "citations": 71
+        "citations": 72
       },
       {
         "year": 2026,
-        "citations": 45
+        "citations": 48
       }
     ]
   },
   "public_access": {
     "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=NSDlr5IAAAAJ",
-    "available": 12,
+    "available": 11,
     "not_available": 1
   },
   "co_authors": [
