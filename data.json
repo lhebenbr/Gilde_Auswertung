@@ -1,13 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a6d5d7988de921c19130efa",
+    "id": "6a964ab000a19706ed4e5828",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/6a6d5d7988de921c19130efa.json",
-    "created_at": "2026-08-01 02:44:09 UTC",
-    "processed_at": "2026-08-01 02:44:09 UTC",
+    "json_endpoint": "https://serpapi.com/searches/dr1ZlprKSTo8qhaqurKnn3xvF3QpNHl-gWjsJ91yzFA/6a964ab000a19706ed4e5828.json",
+    "markdown_endpoint": "https://serpapi.com/searches/dr1ZlprKSTo8qhaqurKnn3xvF3QpNHl-gWjsJ91yzFA/6a964ab000a19706ed4e5828.md",
+    "created_at": "2026-09-01 03:46:56 UTC",
+    "processed_at": "2026-09-01 03:46:56 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=NSDlr5IAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/VVdqtkxWtMYI-IfuynjB8w/6a6d5d7988de921c19130efa.html",
-    "total_time_taken": 5.97
+    "raw_html_file": "https://serpapi.com/searches/dr1ZlprKSTo8qhaqurKnn3xvF3QpNHl-gWjsJ91yzFA/6a964ab000a19706ed4e5828.html",
+    "total_time_taken": 1.03
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -56,7 +57,7 @@
       "authors": "J Wang, P Youkharibache, A Marchler-Bauer, C Lanczycki, D Zhang, S Lu, ...",
       "publication": "Frontiers in Molecular Biosciences, 102, 2022",
       "cited_by": {
-        "value": 73,
+        "value": 75,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13817718267411955586",
         "serpapi_link": "https://serpapi.com/search.json?cites=13817718267411955586&engine=google_scholar&hl=en",
         "cites_id": "13817718267411955586"
@@ -78,30 +79,30 @@
       "year": "2022"
     },
     {
-      "title": "Psychological impacts and post-traumatic stress disorder among people under COVID-19 quarantine and isolation: a global survey",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:UeHWp8X0CEIC",
-      "citation_id": "NSDlr5IAAAAJ:UeHWp8X0CEIC",
-      "authors": "TG COVID",
-      "publication": "International journal of environmental research and public health 18 (11), 5719, 2021",
-      "cited_by": {
-        "value": 46,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4083654604398216056,2007225707164780946",
-        "serpapi_link": "https://serpapi.com/search.json?cites=4083654604398216056%2C2007225707164780946&engine=google_scholar&hl=en",
-        "cites_id": "4083654604398216056,2007225707164780946"
-      },
-      "year": "2021"
-    },
-    {
       "title": "Perceived Stress of Quarantine and Isolation During COVID-19 Pandemic: A Global Survey",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:IjCSPb-OGe4C",
       "citation_id": "NSDlr5IAAAAJ:IjCSPb-OGe4C",
       "authors": "TGC Collaborative",
       "publication": "Frontiers in Psychiatry 12, 651, 2021",
       "cited_by": {
-        "value": 43,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12362774368887476991,16442833274616588016",
-        "serpapi_link": "https://serpapi.com/search.json?cites=12362774368887476991%2C16442833274616588016&engine=google_scholar&hl=en",
-        "cites_id": "12362774368887476991,16442833274616588016"
+        "value": 65,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16442833274616588016,12362774368887476991",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16442833274616588016%2C12362774368887476991&engine=google_scholar&hl=en",
+        "cites_id": "16442833274616588016,12362774368887476991"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Psychological impacts and post-traumatic stress disorder among people under COVID-19 quarantine and isolation: a global survey",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:UeHWp8X0CEIC",
+      "citation_id": "NSDlr5IAAAAJ:UeHWp8X0CEIC",
+      "authors": "TG COVID",
+      "publication": "International journal of environmental research and public health 18 (11), 5719, 2021",
+      "cited_by": {
+        "value": 45,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2007225707164780946,4083654604398216056",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2007225707164780946%2C4083654604398216056&engine=google_scholar&hl=en",
+        "cites_id": "2007225707164780946,4083654604398216056"
       },
       "year": "2021"
     },
@@ -126,7 +127,7 @@
       "authors": "LC Chong, AM Khan",
       "publication": "Encyclopedia of Bioinformatics and Computational Biology, 241, 2019",
       "cited_by": {
-        "value": 30,
+        "value": 31,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7793892791540592384",
         "serpapi_link": "https://serpapi.com/search.json?cites=7793892791540592384&engine=google_scholar&hl=en",
         "cites_id": "7793892791540592384"
@@ -140,7 +141,7 @@
       "authors": "LC Chong, AM Khan",
       "publication": "BMC genomics 20, 1-18, 2019",
       "cited_by": {
-        "value": 27,
+        "value": 26,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2417741709540411441",
         "serpapi_link": "https://serpapi.com/search.json?cites=2417741709540411441&engine=google_scholar&hl=en",
         "cites_id": "2417741709540411441"
@@ -154,7 +155,7 @@
       "authors": "J Charon, I Olendraite, M Forgia, LC Chong, LS Hillary, S Roux, ...",
       "publication": "Frontiers in Virology 4, 1371958, 2024",
       "cited_by": {
-        "value": 23,
+        "value": 25,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11118823642951812951",
         "serpapi_link": "https://serpapi.com/search.json?cites=11118823642951812951&engine=google_scholar&hl=en",
         "cites_id": "11118823642951812951"
@@ -224,7 +225,7 @@
       "authors": "S Tan, MF Sjaugi, SC Fong, LC Chong, HS Abd Raman, ...",
       "publication": "Viruses 13 (5), 871, 2021",
       "cited_by": {
-        "value": 7,
+        "value": 8,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12489235815477999215",
         "serpapi_link": "https://serpapi.com/search.json?cites=12489235815477999215&engine=google_scholar&hl=en",
         "cites_id": "12489235815477999215"
@@ -322,9 +323,9 @@
       "authors": "A Lucaci, H Shaikh, LC Chong, R Tahzima, M Forgia, KB Mansour, ...",
       "cited_by": {
         "value": 1,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5009276047068831064",
-        "serpapi_link": "https://serpapi.com/search.json?cites=5009276047068831064&engine=google_scholar&hl=en",
-        "cites_id": "5009276047068831064"
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10626908719131361157",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10626908719131361157&engine=google_scholar&hl=en",
+        "cites_id": "10626908719131361157"
       },
       "year": "2025"
     }
@@ -333,8 +334,8 @@
     "table": [
       {
         "citations": {
-          "all": 419,
-          "since_2021": 401
+          "all": 445,
+          "since_2021": 426
         }
       },
       {
@@ -357,37 +358,37 @@
       },
       {
         "year": 2020,
-        "citations": 13
+        "citations": 14
       },
       {
         "year": 2021,
-        "citations": 32
+        "citations": 33
       },
       {
         "year": 2022,
-        "citations": 79
+        "citations": 87
       },
       {
         "year": 2023,
-        "citations": 83
+        "citations": 86
       },
       {
         "year": 2024,
-        "citations": 84
+        "citations": 86
       },
       {
         "year": 2025,
-        "citations": 72
+        "citations": 75
       },
       {
         "year": 2026,
-        "citations": 48
+        "citations": 55
       }
     ]
   },
   "public_access": {
     "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=NSDlr5IAAAAJ",
-    "available": 11,
+    "available": 12,
     "not_available": 1
   },
   "co_authors": [
