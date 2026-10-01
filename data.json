@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a964ab000a19706ed4e5828",
+    "id": "6abde05cfb7620c3e78a8f5f",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/dr1ZlprKSTo8qhaqurKnn3xvF3QpNHl-gWjsJ91yzFA/6a964ab000a19706ed4e5828.json",
-    "markdown_endpoint": "https://serpapi.com/searches/dr1ZlprKSTo8qhaqurKnn3xvF3QpNHl-gWjsJ91yzFA/6a964ab000a19706ed4e5828.md",
-    "created_at": "2026-09-01 03:46:56 UTC",
-    "processed_at": "2026-09-01 03:46:56 UTC",
+    "json_endpoint": "https://serpapi.com/searches/cMJdNYyzH5-0_Dyw83vgrQ1Q4obXg8y49anytWlQrc4/6abde05cfb7620c3e78a8f5f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/cMJdNYyzH5-0_Dyw83vgrQ1Q4obXg8y49anytWlQrc4/6abde05cfb7620c3e78a8f5f.md",
+    "created_at": "2026-10-01 04:23:56 UTC",
+    "processed_at": "2026-10-01 04:23:56 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=NSDlr5IAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/dr1ZlprKSTo8qhaqurKnn3xvF3QpNHl-gWjsJ91yzFA/6a964ab000a19706ed4e5828.html",
-    "total_time_taken": 1.03
+    "raw_html_file": "https://serpapi.com/searches/cMJdNYyzH5-0_Dyw83vgrQ1Q4obXg8y49anytWlQrc4/6abde05cfb7620c3e78a8f5f.html",
+    "total_time_taken": 0.89
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -57,7 +57,7 @@
       "authors": "J Wang, P Youkharibache, A Marchler-Bauer, C Lanczycki, D Zhang, S Lu, ...",
       "publication": "Frontiers in Molecular Biosciences, 102, 2022",
       "cited_by": {
-        "value": 75,
+        "value": 77,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13817718267411955586",
         "serpapi_link": "https://serpapi.com/search.json?cites=13817718267411955586&engine=google_scholar&hl=en",
         "cites_id": "13817718267411955586"
@@ -71,7 +71,7 @@
       "authors": "QV Nguyen, LC Chong, YY Hor, LC Lew, IA Rather, SB Choi",
       "publication": "Nutrients 14 (2), 274, 2022",
       "cited_by": {
-        "value": 66,
+        "value": 68,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8815560441197577336",
         "serpapi_link": "https://serpapi.com/search.json?cites=8815560441197577336&engine=google_scholar&hl=en",
         "cites_id": "8815560441197577336"
@@ -135,6 +135,20 @@
       "year": "2019"
     },
     {
+      "title": "Consensus statement from the first RdRp Summit: advancing RNA virus discovery at scale across communities",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:0EnyYjriUFMC",
+      "citation_id": "NSDlr5IAAAAJ:0EnyYjriUFMC",
+      "authors": "J Charon, I Olendraite, M Forgia, LC Chong, LS Hillary, S Roux, ...",
+      "publication": "Frontiers in Virology 4, 1371958, 2024",
+      "cited_by": {
+        "value": 26,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11118823642951812951",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11118823642951812951&engine=google_scholar&hl=en",
+        "cites_id": "11118823642951812951"
+      },
+      "year": "2024"
+    },
+    {
       "title": "Identification of highly conserved, serotype-specific dengue virus sequences: implications for vaccine design",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:d1gkVwhDpl0C",
       "citation_id": "NSDlr5IAAAAJ:d1gkVwhDpl0C",
@@ -149,27 +163,13 @@
       "year": "2019"
     },
     {
-      "title": "Consensus statement from the first RdRp Summit: advancing RNA virus discovery at scale across communities",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:0EnyYjriUFMC",
-      "citation_id": "NSDlr5IAAAAJ:0EnyYjriUFMC",
-      "authors": "J Charon, I Olendraite, M Forgia, LC Chong, LS Hillary, S Roux, ...",
-      "publication": "Frontiers in Virology 4, 1371958, 2024",
-      "cited_by": {
-        "value": 25,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11118823642951812951",
-        "serpapi_link": "https://serpapi.com/search.json?cites=11118823642951812951&engine=google_scholar&hl=en",
-        "cites_id": "11118823642951812951"
-      },
-      "year": "2024"
-    },
-    {
       "title": "Genomic analysis and biological characterization of a novel Schitoviridae phage infecting Vibrio alginolyticus",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:Se3iqnhoufwC",
       "citation_id": "NSDlr5IAAAAJ:Se3iqnhoufwC",
       "authors": "S Tajuddin, AM Khan, LC Chong, CL Wong, JS Tan, MY Ina-Salwany, ...",
       "publication": "Applied Microbiology and Biotechnology 107 (2-3), 749-768, 2023",
       "cited_by": {
-        "value": 15,
+        "value": 16,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10013059636131514674",
         "serpapi_link": "https://serpapi.com/search.json?cites=10013059636131514674&engine=google_scholar&hl=en",
         "cites_id": "10013059636131514674"
@@ -183,7 +183,7 @@
       "authors": "LC Chong, H Ganesan, CY Yong, WS Tan, KL Ho",
       "publication": "PloS one 14 (2), e0211740, 2019",
       "cited_by": {
-        "value": 15,
+        "value": 16,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3183643394494771920",
         "serpapi_link": "https://serpapi.com/search.json?cites=3183643394494771920&engine=google_scholar&hl=en",
         "cites_id": "3183643394494771920"
@@ -197,7 +197,7 @@
       "authors": "LC Chong, C Lauber",
       "publication": "Frontiers in Microbiology 14, 1144003, 2023",
       "cited_by": {
-        "value": 14,
+        "value": 15,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4132961262210105126",
         "serpapi_link": "https://serpapi.com/search.json?cites=4132961262210105126&engine=google_scholar&hl=en",
         "cites_id": "4132961262210105126"
@@ -225,7 +225,7 @@
       "authors": "S Tan, MF Sjaugi, SC Fong, LC Chong, HS Abd Raman, ...",
       "publication": "Viruses 13 (5), 871, 2021",
       "cited_by": {
-        "value": 8,
+        "value": 9,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12489235815477999215",
         "serpapi_link": "https://serpapi.com/search.json?cites=12489235815477999215&engine=google_scholar&hl=en",
         "cites_id": "12489235815477999215"
@@ -334,8 +334,8 @@
     "table": [
       {
         "citations": {
-          "all": 445,
-          "since_2021": 426
+          "all": 454,
+          "since_2021": 435
         }
       },
       {
@@ -370,7 +370,7 @@
       },
       {
         "year": 2023,
-        "citations": 86
+        "citations": 88
       },
       {
         "year": 2024,
@@ -382,7 +382,7 @@
       },
       {
         "year": 2026,
-        "citations": 55
+        "citations": 62
       }
     ]
   },
