@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6abde05cfb7620c3e78a8f5f",
+    "id": "6ae6c218cf83f92a6f6de111",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/cMJdNYyzH5-0_Dyw83vgrQ1Q4obXg8y49anytWlQrc4/6abde05cfb7620c3e78a8f5f.json",
-    "markdown_endpoint": "https://serpapi.com/searches/cMJdNYyzH5-0_Dyw83vgrQ1Q4obXg8y49anytWlQrc4/6abde05cfb7620c3e78a8f5f.md",
-    "created_at": "2026-10-01 04:23:56 UTC",
-    "processed_at": "2026-10-01 04:23:56 UTC",
+    "json_endpoint": "https://serpapi.com/searches/vJt5D3k7BdeJBgMWafITqRuwN9wWAzb5nGL5r65WpXo/6ae6c218cf83f92a6f6de111.json",
+    "markdown_endpoint": "https://serpapi.com/searches/vJt5D3k7BdeJBgMWafITqRuwN9wWAzb5nGL5r65WpXo/6ae6c218cf83f92a6f6de111.md",
+    "created_at": "2026-11-01 04:37:44 UTC",
+    "processed_at": "2026-11-01 04:37:44 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=NSDlr5IAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/cMJdNYyzH5-0_Dyw83vgrQ1Q4obXg8y49anytWlQrc4/6abde05cfb7620c3e78a8f5f.html",
-    "total_time_taken": 0.89
+    "raw_html_file": "https://serpapi.com/searches/vJt5D3k7BdeJBgMWafITqRuwN9wWAzb5nGL5r65WpXo/6ae6c218cf83f92a6f6de111.html",
+    "total_time_taken": 1.73
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -57,7 +57,7 @@
       "authors": "J Wang, P Youkharibache, A Marchler-Bauer, C Lanczycki, D Zhang, S Lu, ...",
       "publication": "Frontiers in Molecular Biosciences, 102, 2022",
       "cited_by": {
-        "value": 77,
+        "value": 81,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13817718267411955586",
         "serpapi_link": "https://serpapi.com/search.json?cites=13817718267411955586&engine=google_scholar&hl=en",
         "cites_id": "13817718267411955586"
@@ -71,7 +71,7 @@
       "authors": "QV Nguyen, LC Chong, YY Hor, LC Lew, IA Rather, SB Choi",
       "publication": "Nutrients 14 (2), 274, 2022",
       "cited_by": {
-        "value": 68,
+        "value": 69,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8815560441197577336",
         "serpapi_link": "https://serpapi.com/search.json?cites=8815560441197577336&engine=google_scholar&hl=en",
         "cites_id": "8815560441197577336"
@@ -141,7 +141,7 @@
       "authors": "J Charon, I Olendraite, M Forgia, LC Chong, LS Hillary, S Roux, ...",
       "publication": "Frontiers in Virology 4, 1371958, 2024",
       "cited_by": {
-        "value": 26,
+        "value": 27,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11118823642951812951",
         "serpapi_link": "https://serpapi.com/search.json?cites=11118823642951812951&engine=google_scholar&hl=en",
         "cites_id": "11118823642951812951"
@@ -233,6 +233,20 @@
       "year": "2021"
     },
     {
+      "title": "An Alignment-Independent Approach for the Study of Viral Sequence Diversity at Any Given Rank of Taxonomy Lineage",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:Tyk-4Ss8FVUC",
+      "citation_id": "NSDlr5IAAAAJ:Tyk-4Ss8FVUC",
+      "authors": "LC Chong, WL Lim, KHK Ban, AM Khan",
+      "publication": "Biology 10 (9), 853, 2021",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11667590571910724342",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11667590571910724342&engine=google_scholar&hl=en",
+        "cites_id": "11667590571910724342"
+      },
+      "year": "2021"
+    },
+    {
       "title": "Machine learning approaches to study the structure-activity relationships of LpxC inhibitors",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:hqOjcs7Dif8C",
       "citation_id": "NSDlr5IAAAAJ:hqOjcs7Dif8C",
@@ -245,20 +259,6 @@
         "cites_id": "10443096378235247883"
       },
       "year": "2023"
-    },
-    {
-      "title": "An Alignment-Independent Approach for the Study of Viral Sequence Diversity at Any Given Rank of Taxonomy Lineage",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:Tyk-4Ss8FVUC",
-      "citation_id": "NSDlr5IAAAAJ:Tyk-4Ss8FVUC",
-      "authors": "LC Chong, WL Lim, KHK Ban, AM Khan",
-      "publication": "Biology 10 (9), 853, 2021",
-      "cited_by": {
-        "value": 4,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11667590571910724342",
-        "serpapi_link": "https://serpapi.com/search.json?cites=11667590571910724342&engine=google_scholar&hl=en",
-        "cites_id": "11667590571910724342"
-      },
-      "year": "2021"
     },
     {
       "title": "UNIQmin, an alignment-free tool to study viral sequence diversity across taxonomic lineages: a case study of monkeypox virus",
@@ -289,6 +289,19 @@
       "year": "2025"
     },
     {
+      "title": "Consensus statement from the second RdRp Summit: towards a unified framework for RNA virus biology",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:3fE2CSJIrl8C",
+      "citation_id": "NSDlr5IAAAAJ:3fE2CSJIrl8C",
+      "authors": "A Lucaci, H Shaikh, LC Chong, R Tahzima, M Forgia, KB Mansour, ...",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10626908719131361157",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10626908719131361157&engine=google_scholar&hl=en",
+        "cites_id": "10626908719131361157"
+      },
+      "year": "2025"
+    },
+    {
       "title": "Negligible peptidome diversity of SARS-CoV-2 and its higher taxonomic ranks",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:LkGwnXOMwfcC",
       "citation_id": "NSDlr5IAAAAJ:LkGwnXOMwfcC",
@@ -315,27 +328,14 @@
         "cites_id": "3750224047424694656"
       },
       "year": "2025"
-    },
-    {
-      "title": "Consensus statement from the second RdRp Summit: towards a unified framework for RNA virus biology",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NSDlr5IAAAAJ&citation_for_view=NSDlr5IAAAAJ:3fE2CSJIrl8C",
-      "citation_id": "NSDlr5IAAAAJ:3fE2CSJIrl8C",
-      "authors": "A Lucaci, H Shaikh, LC Chong, R Tahzima, M Forgia, KB Mansour, ...",
-      "cited_by": {
-        "value": 1,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10626908719131361157",
-        "serpapi_link": "https://serpapi.com/search.json?cites=10626908719131361157&engine=google_scholar&hl=en",
-        "cites_id": "10626908719131361157"
-      },
-      "year": "2025"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 454,
-          "since_2021": 435
+          "all": 463,
+          "since_2021": 444
         }
       },
       {
@@ -366,23 +366,23 @@
       },
       {
         "year": 2022,
-        "citations": 87
-      },
-      {
-        "year": 2023,
         "citations": 88
       },
       {
+        "year": 2023,
+        "citations": 87
+      },
+      {
         "year": 2024,
-        "citations": 86
+        "citations": 87
       },
       {
         "year": 2025,
-        "citations": 75
+        "citations": 74
       },
       {
         "year": 2026,
-        "citations": 62
+        "citations": 71
       }
     ]
   },
@@ -442,8 +442,8 @@
       "link": "https://scholar.google.com/citations?user=24GCF6EAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=24GCF6EAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "24GCF6EAAAAJ",
-      "affiliations": "University of Georgia",
-      "email": "Verified email at uga.edu",
+      "affiliations": "Moderna",
+      "email": "Verified email at modernatx.com",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=24GCF6EAAAAJ&citpid=19"
     },
     {
